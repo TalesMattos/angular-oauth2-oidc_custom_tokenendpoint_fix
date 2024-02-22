@@ -1,5 +1,5 @@
 {
-  "name": "angular-oauth2-oidc",
+  "name": "angular-oauth2-oidc_custom_tokendpoint_fix",
   "version": "12.1.1",
   "license": "MIT",
   "scripts": {
